@@ -1,0 +1,31 @@
+header {
+    padding: 65px 0px 10px 20px;
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+small {
+    font-size: 25px;
+}
+
+.about-text {
+    margin: 20px 60px;
+}
+
+.about-text img {
+    max-width: 240px;
+    float: right;
+    padding: 20px
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+}
+
